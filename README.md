@@ -90,9 +90,7 @@ Give a ⭐️ if you like this project!
 
 # Acknowledgement
 
-- Hat tip to anyone whose code was a source of inspiration.
-- https://themewagon.com/themes/free-bootstrap-4-html5-cooking-website-template-tasty-recipes/
-- A big thanks to [@microverseinc](https://github.com/microverseinc).
+Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance. 
 
 # 📝 License
 
